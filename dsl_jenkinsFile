@@ -1,8 +1,8 @@
 @Library("jenkins-pipeline-shared-lib-sample") _
-
-stage('Check Status') {
-    checkStatus()
-    log.info("test")
-    math1.add(3,5)
-    math1.power1(3,3)
+SampleDSL {
+  [
+    HW = "Hello World! first line ",
+    P1 = "This is P1 value , test of Mxu2 ",
+    Custom = "Whatever you want"
+  ]
 }
