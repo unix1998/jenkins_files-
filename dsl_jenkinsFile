@@ -1,4 +1,4 @@
-@Library("jenkins-pipeline-shared-lib-sample") _
+@Library("jenkins-pipeline-shared-lib-sample@develop") _
 SampleDSL {
   [
     HW = "Hello World! first line ",
