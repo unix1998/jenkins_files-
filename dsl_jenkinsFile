@@ -4,7 +4,8 @@ SampleDSL {
     HW = "Hello World! first line ",
     P1 = "This is P1 value , test of Mxu2 ",
     Custom = "Whatever you want",
-    Guest_name = "Sun Wukong"
+    Guest_name = "Sun Wukong",
+    Caculation = "calculation 12"
     
   ]
 }
