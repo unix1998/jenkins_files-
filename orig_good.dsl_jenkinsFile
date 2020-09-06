@@ -1,7 +1,6 @@
 @Library("jenkins-pipeline-shared-lib-sample@develop") _
 SampleDSL {
   [
-    repoUrl = "https://github.com/unix1998/jenkins_files-.git"
     HW = "Hello World! first line ",
     P1 = "This is P1 value , test of Mxu2 ",
     Custom = "Whatever you want",
